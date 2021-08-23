@@ -1,4 +1,4 @@
 a = "Nithin "
 b = "Charles"
-c = " S"
+c = " S."
 print (a+b+c)
