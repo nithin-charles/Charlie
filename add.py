@@ -1,3 +1,4 @@
 a = "Nithin "
 b = "Charles"
-print (a+b)
+c = " S"
+print (a+b+c)
